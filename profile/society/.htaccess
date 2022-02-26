@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^register/?$ register.php
+RewriteRule ^login/?$ login.php
+RewriteRule ^create-event/?$ create-event.php
+RewriteRule ^settings/?$ settings.php
+RewriteRule ^profile-user/?$ profile-user.php
